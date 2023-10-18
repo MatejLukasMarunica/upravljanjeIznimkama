@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\bin\Debug\upravljanjeIznikama.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\bin\Debug\upravljanjeIznikama.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\bin\Debug\upravljanjeIznikama.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.Form1.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\upravljanjeIznikama\upravljanjeIznikama\obj\Debug\upravljanjeIznikama.pdb
